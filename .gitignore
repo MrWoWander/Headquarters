@@ -11,3 +11,7 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+
+
+# Built data for maps
+*_BuiltData.uasset
